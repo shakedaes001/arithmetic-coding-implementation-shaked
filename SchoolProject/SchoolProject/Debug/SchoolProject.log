@@ -1,0 +1,8 @@
+﻿  Encode.cpp
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(33): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(124): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(125): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(184): warning C4129: '.': unrecognized character escape sequence
+c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(201): warning C4129: '.': unrecognized character escape sequence
+  SchoolProject.vcxproj -> C:\Users\USER\source\repos\SchoolProject\Debug\SchoolProject.exe
