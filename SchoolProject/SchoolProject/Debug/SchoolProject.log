@@ -1,8 +1,8 @@
-﻿  Encode.cpp
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(33): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(36): warning C4018: '<': signed/unsigned mismatch
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(124): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(125): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(184): warning C4129: '.': unrecognized character escape sequence
-c:\users\user\source\repos\schoolproject\schoolproject\encode.cpp(201): warning C4129: '.': unrecognized character escape sequence
+﻿  Encoder.cpp
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(43): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(122): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(123): warning C4244: '=': conversion from 'double' to '::size_t', possible loss of data
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\source\repos\schoolproject\schoolproject\encoder.cpp(192): warning C4129: '.': unrecognized character escape sequence
   SchoolProject.vcxproj -> C:\Users\USER\source\repos\SchoolProject\Debug\SchoolProject.exe
